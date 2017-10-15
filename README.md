@@ -4,7 +4,9 @@
 wtanaka.pbuilder
 ================
 
-Installs pbuilder
+Installs pbuilder, personal package builder used for creating and
+maintaining chroot environment and building Debian packages in the
+chroot environment.
 
 Example Playbook
 ----------------
